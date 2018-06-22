@@ -3,7 +3,7 @@ package com.blogcode;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/** TEST TEST */
+/** TEST */
 @SpringBootApplication
 public class Application {
 
